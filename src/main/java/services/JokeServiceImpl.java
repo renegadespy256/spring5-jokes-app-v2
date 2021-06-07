@@ -1,4 +1,4 @@
-package guru.springframework.spring5jokesappv2.services;
+package services;
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

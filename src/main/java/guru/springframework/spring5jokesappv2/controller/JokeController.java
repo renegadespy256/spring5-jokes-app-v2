@@ -1,7 +1,6 @@
-package controller;
+package guru.springframework.spring5jokesappv2.controller;
 
-import guru.springframework.spring5jokesappv2.services.JokeService;
-import org.junit.jupiter.params.provider.EnumSource;
+import services.JokeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
