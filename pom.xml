@@ -52,5 +52,8 @@
             </plugin>
         </plugins>
     </build>
+    <scm>
+        <developerConnection>scm:git:https://github.com/renegadespy256/spring5-jokes-app-v2.git</developerConnection>
+    </scm>
 
 </project>
